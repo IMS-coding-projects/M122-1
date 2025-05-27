@@ -32,8 +32,8 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 ### Contributers: 
 
-<a href="https://github.com/an0n-00/FileSync/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=an0n-00/FileSync" />
+<a href="https://github.com/IMS-coding-projects/M122-1/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=IMS-coding-projects/M122-1" />
 </a>
 
 ## License
