@@ -27,14 +27,5 @@ To start using FileSync, follow these steps:
 .\FileSync_v6.ps1
 ```
 
-## Contributing
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
-
-### Contributers: 
-
-<a href="https://github.com/IMS-coding-projects/M122-1/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=IMS-coding-projects/M122-1" />
-</a>
-
 ## License
 This project is dedicated to the public domain under the [Unlicense.](https://github.com/An0n-00/FileSync/blob/main/LICENSE)
